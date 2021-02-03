@@ -3,6 +3,7 @@
 I am a beginner developer. I write various applications, websites, scripts. I also write plugins for Minecraft PE and BE for different kernels starting from PMMP, Nukkit, JSPrismarine up to MiNET.
 
 ### Languages:
+![C-SHARP](https://img.shields.io/badge/c%23%20-090909.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=6296CC)
 ![Rust](https://img.shields.io/badge/-RUST-090909?style=for-the-badge&logo=rust&logoColor=00648B)
 ![Haskell](https://img.shields.io/badge/-Haskell-090909?style=for-the-badge&logo=Haskell&logoColor=E5D3FF)
