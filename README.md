@@ -1,6 +1,6 @@
 [![Header](https://github.com/NoblesseDiamand/noblessediamand/blob/main/assets/dragonbastard.png)](https://vk.com/dragon.bastard)
 
-## I am a beginner developer. I write various applications, websites, scripts.
+## Hello, hello
 
 
 ### Contact:
